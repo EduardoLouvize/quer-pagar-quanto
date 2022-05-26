@@ -1,6 +1,6 @@
-package br.com.alura.orgs.Dao
+package br.edu.infnet.querPagar.Dao
 
-import br.com.alura.orgs.model.Produto
+import br.edu.infnet.querPagar.model.Produto
 
 class ProdutosDao {
 

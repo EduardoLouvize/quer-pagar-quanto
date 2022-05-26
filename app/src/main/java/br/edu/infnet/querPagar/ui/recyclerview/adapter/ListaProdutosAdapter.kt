@@ -1,4 +1,4 @@
-package br.com.alura.orgs.ui.recyclerview.adapter
+package br.edu.infnet.querPagar.ui.recyclerview.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -6,8 +6,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import br.com.alura.orgs.R
-import br.com.alura.orgs.model.Produto
+import br.edu.infnet.querPagar.R
+import br.edu.infnet.querPagar.model.Produto
 
 class ListaProdutosAdapter(
     val context: Context,

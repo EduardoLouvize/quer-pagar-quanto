@@ -1,14 +1,13 @@
-package br.com.alura.orgs.ui.activity
+package br.edu.infnet.querPagar.ui.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.os.PersistableBundle
 import android.util.Log
 import android.widget.Button
 import android.widget.EditText
-import br.com.alura.orgs.Dao.ProdutosDao
-import br.com.alura.orgs.R
-import br.com.alura.orgs.model.Produto
+import br.edu.infnet.querPagar.Dao.ProdutosDao
+import br.edu.infnet.querPagar.R
+import br.edu.infnet.querPagar.model.Produto
 import java.math.BigDecimal
 
 class FormularioProdutoActivity : AppCompatActivity(R.layout.activity_formulario_produto) {

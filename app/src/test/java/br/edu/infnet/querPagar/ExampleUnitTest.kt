@@ -1,4 +1,4 @@
-package br.com.alura.orgs
+package br.edu.infnet.querPagar
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package br.com.alura.orgs.model
+package br.edu.infnet.querPagar.model
 
 import java.math.BigDecimal
 

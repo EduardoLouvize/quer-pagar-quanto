@@ -1,13 +1,13 @@
-package br.com.alura.orgs.ui.activity
+package br.edu.infnet.querPagar.ui.activity
 
 import android.content.Intent
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.RecyclerView
-import br.com.alura.orgs.Dao.ProdutosDao
-import br.com.alura.orgs.R
-import br.com.alura.orgs.ui.recyclerview.adapter.ListaProdutosAdapter
+import br.edu.infnet.querPagar.Dao.ProdutosDao
+import br.edu.infnet.querPagar.R
+import br.edu.infnet.querPagar.ui.recyclerview.adapter.ListaProdutosAdapter
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 
 class MainActivity : AppCompatActivity(R.layout.activity_main){
